@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1440px;
+    height: 831px;
+    
+}
+.img{
+    background-image: url(./img);
+}
+
+
+
+.control_navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
